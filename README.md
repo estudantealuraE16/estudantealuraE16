@@ -5,7 +5,7 @@ Estou desenvolvendo SCRATH e JAVA SCRIPT: projeto Alura
 
 **estudantealuraE16/estudantealuraE16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![]([)](https://media1.tenor.com/m/-wlXMxk20ZoAAAAC/yin-yang-yin.gif)
+![](https://media1.tenor.com/m/-wlXMxk20ZoAAAAC/yin-yang-yin.gif)
 
 Curriculo 
 
